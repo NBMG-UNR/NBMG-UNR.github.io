@@ -9,7 +9,8 @@ redirect_from: "/"
 </div>
 
 <br/>
-# Welcome to the NBMG Documentation Library
+# Welcome to the NBMG Data Management Documentation Library
+Please also refer to http://54.193.211.86/doku.php?id=docs for other topics. Content here will eventually be migrated to that page.
 
 This website is the first iteration of an effort to consolidate and organize all of NBMG's documentation. This is a work-in-progress - some links are currently placeholders, and content will be added over time.
 
